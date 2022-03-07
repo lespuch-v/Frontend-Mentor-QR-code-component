@@ -1,5 +1,5 @@
 # QR code component
-<h2>Check it out: https://lespuch-v.github.io/Frontend-Mentor-QR-code-component/</h2>
+<h2>Check it out: https://lespuch-v.github.io/QR-code-component/</h2>
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
